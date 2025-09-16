@@ -1,5 +1,19 @@
 # 💫 About Me:
-# Hi, I'm Tuấn Nguyễn 👋<br><br>I'm a developer passionate about **Python, Java, and TypeScript**.  <br>I enjoy building **web applications**, exploring **AI**, and solving real-world problems with code.<br><br>### What I do<br>- 🖥️ Develop full-stack web applications with modern tools  <br>- 🤖 Experiment with machine learning and computer vision projects  <br>- 🚀 Love learning new technologies and improving my coding skills<br>
+<h1 align="center">Hi, I'm Tuấn Nguyễn 👋</h1>
+
+<p align="center">
+  I'm a developer passionate about <b>Python, Java, and TypeScript</b>.  
+  <br>
+  I enjoy building <b>web applications</b>, exploring <b>AI</b>, 
+  and solving real-world problems with code.
+</p>
+
+<h2>🚀 What I Do</h2>
+
+- 🖥️ Develop full-stack web applications with modern tools  
+- 🤖 Experiment with machine learning and computer vision projects  
+- 🚀 Love learning new technologies and improving my coding skills  
+
 
 
 ## 🌐 Socials:
